@@ -13,7 +13,7 @@ Não deixe de conferir meus repositórios de estudos e projetos!
  
   - 🎓 **Formação acadêmica:** Tecnólogo em Automação Industrial pelo [INATEL](https://inatel.br/home/), onde também faço Pós-Graduação em Internet das Coisas (IoT).
  - 👔 **Trabalho com:** Testes automatizados e manuais de Sistemas Embarcados para *IoT*.
- - 📚 **Atualmente estou estudando por conta própria:** Algoritmos, Java, Python, Programação Orientada a Objetos, Linux, Sistemas Embarcados e IoT.
+ - 📚 **Atualmente estou estudando por conta própria:** Algoritmos, Programação Orientada a Objetos, Python, Linux, Sistemas Embarcados e IoT.
 
 ##
 ### Linguagens e ferramentas que mais utilizo no meu dia a dia:

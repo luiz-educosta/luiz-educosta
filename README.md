@@ -1,49 +1,61 @@
-### Olá! Eu sou o Luiz Eduardo!
+# Luiz Eduardo Costa Rodrigues
 
- - 🇧🇷 **Brasileiro, com muito orgulho!**
- 
- - 🔺 **Mineiro, uai!**
- 
-Seja bem-vindo(a)!
+**Quality Assurance | Testes de Software | Sistemas Embarcados | Firmware**
 
-Obrigado por visitar meu perfil! 
-Não deixe de conferir meus repositórios de estudos e projetos!
-##
-### Quem sou?
- 
-  - 🎓 **Formação acadêmica:** Tecnólogo em Automação Industrial pelo [INATEL](https://inatel.br/home/), onde também faço Pós-Graduação em Internet das Coisas (IoT).
- - 👔 **Trabalho com:** Testes automatizados e manuais de Sistemas Embarcados para *IoT*.
- - 📚 **Atualmente estou estudando por conta própria:** Algoritmos, Programação Orientada a Objetos, Python, Linux, Sistemas Embarcados e IoT.
+Sou profissional de tecnologia com experiência em qualidade, validação e testes de sistemas embarcados, atuando na interseção entre hardware, firmware e software. Tenho trajetória em ambientes técnicos de alta complexidade, com foco em análise de requisitos, planejamento de testes, execução manual e regressiva, registro e rastreamento de defeitos, documentação técnica e colaboração próxima com times de desenvolvimento.
 
-##
-### Linguagens e ferramentas que mais utilizo no meu dia a dia:
-<div align="center">
-  <a href="https://github.com/luiz-educosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-educosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-educosta&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br> 
-  <img align="center" alt="Luiz-Rsp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
-  <img align="center" alt="Luiz-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Luiz-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Luiz-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Luiz-Cembedded" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg">
-  <img align="center" alt="Luiz-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Luiz-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luiz-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-</div>
-  
-##
-  
-### Contatos:
-  
-<div>
-  <a href = "mailto:luizeduardocostar@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-educosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://wa.me/5535999901515" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/luiz_educosta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/luiz-educosta/luiz-educosta/blob/output/github-contribution-grid-snake.svg)
-</div>
+Atualmente direciono minha carreira para **Quality Assurance e Testes de Software**, buscando oportunidades onde eu possa contribuir para entregas mais confiáveis, bem documentadas e orientadas à qualidade.
+
+## Atuação
+
+- Criação e execução de casos e planos de teste
+- Testes manuais, regressivos e exploratórios
+- Validação de requisitos e critérios de aceitação
+- Registro, reprodução e acompanhamento de bugs
+- Testes de firmware, hardware e sistemas embarcados
+- Scripts em Python para apoio a ambientes de teste
+- Documentação técnica com Confluence
+- Gestão de atividades e defeitos com Jira
+- Colaboração com times multidisciplinares em contextos ágeis
+
+## Experiência Recente
+
+**INATEL - Instituto Nacional de Telecomunicações**
+
+Atuo em projetos envolvendo sistemas embarcados, IoT, monitoramento remoto e soluções tecnológicas com foco em confiabilidade de produto. Minha experiência inclui validação de entregas, análise de requisitos, planejamento e execução de testes, documentação, registro e acompanhamento de defeitos, apoio técnico na análise de falhas e melhoria contínua dos processos.
+
+Em paralelo, estou me capacitando em **Testes de Software e Quality Assurance** por meio da **[Mentoria em Testes de Software 2.0, com Júlio de Lima](https://mentoria.juliodelima.com.br/)**, aprofundando conhecimentos em fundamentos de testes, modelagem, documentação, execução de testes, testes exploratórios, testes de APIs, automação web, testes de performance, testes ágeis, posicionamento profissional e uso de Inteligência Artificial aplicada à qualidade de software.
+
+## Tecnologias e Ferramentas
+
+`QA` `Testes Manuais` `Testes de Regressão` `Testes Exploratórios` `Jira` `Confluence`
+
+`Python` `C` `Linux` `Git` `Jenkins` `Firmware` `IoT` `Sistemas Embarcados`
+
+## Capacitação Em QA
+
+Atualmente participo da **Mentoria em Testes de Software 2.0**, conduzida por **Júlio de Lima**, referência brasileira em testes e qualidade de software.
+
+A formação complementa minha experiência prática em sistemas embarcados com uma visão mais ampla de QA moderno, incluindo:
+
+- Fundamentos e mentalidade em testes de software
+- Modelagem, documentação e execução de testes
+- Testes exploratórios e técnicas de design de teste
+- Testes e automação em APIs
+- Testes e automação em aplicações web
+- Testes de performance
+- Testes ágeis e atuação do QA no ciclo de desenvolvimento
+- Uso de IA no dia a dia de testes de software
+- Posicionamento profissional e comunicação com times técnicos
+
+## Formação
+
+- Pós-graduação em Internet das Coisas - IoT, INATEL
+- Graduação em Automação Industrial, INATEL
+- Técnico em Eletrônica com Ênfase em Telecomunicações, ETE FMC
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/luizeduardo-qa](https://www.linkedin.com/in/luizeduardo-qa/)
+- GitHub: [github.com/luiz-educosta](https://github.com/luiz-educosta)
+- E-mail: [luizeduardocostar@hotmail.com](mailto:luizeduardocostar@hotmail.com)
